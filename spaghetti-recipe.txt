@@ -1,0 +1,10 @@
+Ingredients:
+ - Spaghetti
+ - Water
+ - Fried tomato
+
+Directions:
+ 1. Boil spaghetti on water.
+ 
+ 2. Add fried tomato.
+
